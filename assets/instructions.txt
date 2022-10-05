@@ -1,0 +1,2 @@
+these are some assets that you can use to create an app 
+it contains svg files of the logos that will be going to used 
